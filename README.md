@@ -1,3 +1,6 @@
 "Operating System Concepts" by Silberschatz/Galvin/Gagne.
 
-Finally I've came around to gather scattered pieces of code I worked on.
+Current: a shell:
+Next: current;
+
+updated at 19:05(+7) on Fri 5 Nov 2021
